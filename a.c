@@ -5,6 +5,6 @@ int main()
   //some change for hotfix
   //some fix for issue 53
   //some change
-  //another change for rebase of both master and temp
+  //another test patch, change for rebase of both master and temp
   return 1;
 }
