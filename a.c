@@ -6,5 +6,5 @@ int main()
   //some fix for issue 53
   //some change
   //another test patch, change for rebase of both master and temp
-  return 2;
+  return a;
 }
