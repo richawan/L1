@@ -8,6 +8,6 @@ int main()
   //another test patch, change for rebase of both master and temp
   return slkdfjsl;
   return kdkd;
-  //commit message test
+  //commit message test 1
   return c;
 }
